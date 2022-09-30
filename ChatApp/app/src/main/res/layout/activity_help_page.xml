@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/helplayout"
+    android:background="@color/backgroundColor"
+    tools:context=".help_page">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linear1"
+        android:layout_marginTop="30dp"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/helpcenter"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:src="@drawable/ic_helpcenter"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="HELP CENTER"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:backgroundTint="@color/transparent"
+            android:textColor="@color/textColor"
+
+            android:layout_marginLeft="10dp"></Button>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/linear1"
+        android:layout_marginTop="30dp"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/contact"
+            android:layout_width="40dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_people"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/transparent"
+            android:text="Contact us"
+            android:textColor="@color/textColor"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"></Button>
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/linear3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/linear2"
+        android:layout_marginTop="30dp"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/Terms"
+            android:layout_width="40dp"
+            android:layout_height="80dp"
+            android:src="@drawable/ic_note"/>
+        <Button
+            android:layout_width="217dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/transparent"
+            android:text="Terms"
+            android:textColor="@color/textColor"
+            android:textSize="25dp"
+            android:textStyle="bold"></Button>
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/linear4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/linear3"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/appinfo"
+            android:layout_width="40dp"
+            android:layout_height="43dp"
+            android:src="@drawable/ic_info"/>
+        <Button
+            android:layout_width="217dp"
+            android:layout_height="wrap_content"
+            android:text="App Info"
+            android:backgroundTint="@color/transparent"
+            android:textSize="25dp"
+            android:textColor="@color/textColor"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"></Button>
+
+    </LinearLayout>
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:layout_marginTop="90dp"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/logo"
+        android:src="@drawable/img_1"
+        android:layout_below="@id/linear4"></ImageView>
+
+
+
+
+</RelativeLayout>

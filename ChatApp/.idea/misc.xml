@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/drawable-night/gradient_background_night.xml" value="0.177" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1415" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/call_ic.xml" value="0.114" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/chat_ic.xml" value="0.1605" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/contact_ic.xml" value="0.1605" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/cust_msg_field.xml" value="0.1415" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/custedittext.xml" value="0.1675" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/custloginbtn.xml" value="0.1755" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/gradient_background.xml" value="0.254" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1605" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2205" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ic_baseline_chat_24.xml" value="0.2205" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.2555" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ic_baseline_vpn_key_24.xml" value="0.1415" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1415" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/phone.xml" value="0.177" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/status_ic.xml" value="0.1605" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/layout/action_bar.xml" value="0.264" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_chat_screen.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_main.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_registrationpage.xml" value="0.2" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_splash.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/layout/chats_view.xml" value="0.2" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/layout/fragment_calls.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/layout/fragment_chat.xml" value="0.264" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/layout/fragment_status.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/layout/regpage.xml" value="0.1983695652173913" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/menu/status_chat_call.xml" value="0.1902497027348395" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/mipmap-anydpi-v26/ChatApp.xml" value="0.1335" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.121" />
+        <entry key="..\:/Users/debma/AndroidStudioProjects/ChatApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.121" />
+        <entry key="..\:/Users/debma/Documents/ChatApp/app/src/main/res/drawable/ic_baseline_vpn_key_24.xml" value="0.2205" />
+        <entry key="..\:/Users/debma/Documents/ChatApp/app/src/main/res/layout/action_bar.xml" value="0.25" />
+        <entry key="..\:/Users/debma/Documents/ChatApp/app/src/main/res/layout/activity_chat_screen.xml" value="0.25" />
+        <entry key="..\:/Users/debma/Documents/ChatApp/app/src/main/res/layout/activity_help_page.xml" value="0.25" />
+        <entry key="..\:/Users/debma/Documents/ChatApp/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/debma/Documents/ChatApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/debma/Documents/ChatApp/app/src/main/res/layout/activity_themespage.xml" value="0.25" />
+        <entry key="..\:/Users/debma/Documents/ChatApp/app/src/main/res/layout/chats_view.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
